@@ -15,10 +15,11 @@ ___
 ### Details
 
 #### MySQL БД
- **ip**: пишите мне
- **port**: ...
- **username**: `ro1`
- **passwd**: `y71mM7!l257G5Q60`
+ - **ip**: пишите мне
+ - **port**: ...
+ - **username**: `ro1`
+ - **passwd**: `y71mM7!l257G5Q60`
+ - **Таблица** `cell.towers` (бд - `cell` таблица - `towers`)
 
 ##### Структура
 ![См файлик](db.png "db structure")
