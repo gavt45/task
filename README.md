@@ -24,8 +24,6 @@ ___
 ![См файлик](db.png "db structure")
 ![См файлик](db1.png "db structure")
 
-___
-
 #### JSON с данными
 ```json
 [
